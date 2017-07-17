@@ -1,2 +1,2 @@
 # invite
-http://invite.gearheadsandgamers.com
+http://join.gearheadsandgamers.com
