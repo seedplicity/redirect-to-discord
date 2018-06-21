@@ -1,2 +1,2 @@
 # invite
-http://join.gearheadsandgamers.com
+http://chat.funkypenguin.co.nz
